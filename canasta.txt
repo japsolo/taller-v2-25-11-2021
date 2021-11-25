@@ -1,1 +1,3 @@
 Canasta de productos
+
+Aquí como Juan estoy trabajando en la canasta de productos, me gustaría que me ayudara a crear una aplicación que me permita agregar productos a una lista de la compra.
